@@ -3,6 +3,7 @@ Terminal-Notepad-DOS is a text editor inspired by Windows' Notepad, built entire
 
 Designed mainly for mouse-based usage, but keyboard navigation is completely supported.
 
+![Running under dosbox](screenshots/Screenshot2026-03-04115757.png)
 
 # Features of the application:
 
