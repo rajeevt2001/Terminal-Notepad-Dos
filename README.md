@@ -1,5 +1,5 @@
 # Terminal-Notepad-Dos
-Terminal-Notepad-DOS is a text editor inspired by Windows' Notepad, built entirely from scratch in C++ with the help of Google Gemini for classic MS-DOS environments. It brings a modern, Windows-like GUI experience into a pure 80x25 text-mode terminal.
+Terminal-Notepad-DOS is a text editor inspired by Windows' Notepad, built entirely from scratch in C++ with the help of Google Gemini for classic MS-DOS environments. It brings a modern, Windows-like GUI experience into a pure 80x25 text-mode terminal. Yes, I know that the whole program is made with the help of AI. Because I'm not good at coding at this level, I only know how to design the user interface, and I love a DOS and retro-futuristic aesthetic.
 
 Designed mainly for mouse-based usage, but keyboard navigation is completely supported.
 
