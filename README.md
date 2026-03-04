@@ -4,13 +4,7 @@ Terminal-Notepad-DOS is a text editor inspired by Windows' Notepad, built entire
 Designed mainly for mouse-based usage, but keyboard navigation is completely supported.
 
 
-Highlights of the DOS Engine:
-
- - Direct VRAM Rendering: Bypasses standard I/O for instant, flicker-free UI drawing.
-
- - Hardware Mouse & Keyboard Polling: Full click-and-drag support alongside deep keyboard navigation (Alt-menus, Tab-traversal).
-
- - Modern Editor Features: Includes dynamic word-wrap, a robust Undo/Redo time machine, and an interactive File Browser.
+# Features of the application:
 
 Core Engine & Architecture:
 
