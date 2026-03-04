@@ -3,7 +3,17 @@ Terminal-Notepad-DOS is a text editor inspired by Windows' Notepad, built entire
 
 Designed mainly for mouse-based usage, but keyboard navigation is completely supported.
 
+Main Screen, running under DOSBox
+
 ![Main Screen, running under DOSBox](Screenshots/Screenshot2026-03-04115757.png)
+
+Preview with demo text
+
+![Preview with demo text](Screenshots/Screenshot2026-03-04151329.png)
+
+Menus preview
+
+![Menus](Screenshots/Screenshot2026-03-04115805.png) ![Menus](Screenshots/Screenshot2026-03-04115808.png) ![Menus](Screenshots/Screenshot2026-03-04115811.png)
 
 # Features of the application:
 
@@ -19,7 +29,7 @@ Core Engine & Architecture:
 
 Advanced Editing Capabilities:
 
- - Dynamic Word Wrap: A highly optimized layout engine that wraps text in real-time, with a toggle to respect whole words or break mid-word.
+ - Dynamic Word Wrap: A highly optimised layout engine that wraps text in real-time, with a toggle to respect whole words or break mid-word.
 
  - Undo/Redo Time Machine: Features a robust 10-level state snapshot system, grouped smartly by typing bursts and manual actions.
 
@@ -38,3 +48,27 @@ Modern UI/UX in Text Mode:
  - Dynamic Theming: Change background, foreground, selection, and critical warning colors in real-time.
 
  - Visual Polish: Includes modern UX touches like mouse hover effects, custom extended ASCII borders, and a "dimmed" background overlay when modal dialogs (like the Exit Warning) appear.
+
+# Settings page
+
+Display settings will be available in the later versions
+
+![Settings](Screenshots/Screenshot2026-03-04115825.png)
+
+Graphics settings with theme settings
+
+![Settings](Screenshots/Screenshot2026-03-04115831.png)
+
+Other settings will be available in the later versions
+
+![Settings](Screenshots/Screenshot2026-03-04115835.png)
+
+# Some preview screenshots with different themes 
+
+![Settings](Screenshots/Screenshot2026-03-04115857.png) ![Settings](Screenshots/Screenshot2026-03-04115915.png)
+
+# Requirements
+A DOS computer and an 80x25 text mode compatible video card.
+
+# Tested on
+DOSBox-X version 2025.12.01
