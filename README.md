@@ -72,4 +72,5 @@ A DOS computer and an 80x25 text mode compatible video card.
 
 # Tested on
 DOS version 7.10 on DOSBox-X version 2025.12.01
+
 Windows 7 x86
