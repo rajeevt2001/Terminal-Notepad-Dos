@@ -53,7 +53,7 @@ Modern UI/UX in Text Mode:
 
 Display information
 
-![Settings](Screenshots/Screenshot2026-03-04115825.png)
+![Settings](Screenshots/Screenshot 2026-06-29 145704.png)
 
 Graphics settings with theme settings
 
