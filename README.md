@@ -53,19 +53,19 @@ Modern UI/UX in Text Mode:
 
 Display information
 
-![Settings](Screenshots/Screenshot 2026-06-29 145704.png)
+![Settings](Screenshots/Screenshot2026-06-29-145704.png)
 
 Graphics settings with theme settings
 
-![Settings](Screenshots/Screenshot2026-03-04115831.png)
+![Settings](Screenshots/Screenshot2026-06-29-145718.png)
 
 Other settings
 
-![Settings](Screenshots/Screenshot2026-03-04115835.png)
+![Settings](Screenshots/Screenshot2026-06-29-145732.png)
 
 # Some preview screenshots with different themes 
 
-![Settings](Screenshots/Screenshot2026-03-04115857.png) ![Settings](Screenshots/Screenshot2026-03-04115915.png)
+![Settings](Screenshots/Screenshot2026-06-29-145803.png) ![Settings](Screenshots/Screenshot2026-06-29-145822.png)
 
 # Requirements
 A DOS computer and an 80x25 text mode compatible video card.
