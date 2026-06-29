@@ -1,5 +1,5 @@
 # Terminal-Notepad-Dos
-Terminal-Notepad-DOS is a text editor inspired by Windows Notepad, built entirely from scratch in C++, compiled with Borland Turbo C 3.0, and with the help of Google Gemini for classic MS-DOS environments. It brings a modern, Windows-like GUI experience into a pure 80x25 text-mode terminal. Yes, I know that the whole program is made with the help of AI. Because I'm not good at coding at this level, I only know how to design the user interface, and I love a DOS and retro-futuristic aesthetic.
+Terminal-Notepad-DOS is a text editor inspired by Windows Notepad, built entirely from scratch in C++, compiled with Borland Turbo C and DJGPP, and with the help of Google Gemini for classic MS-DOS environments. It brings a modern, Windows-like GUI experience into a pure text-mode terminal. Yes, I know that the whole program is made with the help of AI. Because I'm not good at coding at this level, I only know how to design the user interface, and I love a DOS and retro-futuristic aesthetic.
 
 Designed mainly for mouse-based usage, but keyboard navigation is completely supported.
 
@@ -31,7 +31,7 @@ Advanced Editing Capabilities:
 
  - Dynamic Word Wrap: A highly optimised layout engine that wraps text in real-time, with a toggle to respect whole words or break mid-word.
 
- - Undo/Redo Time Machine: Features a robust 10-level state snapshot system, grouped smartly by typing bursts and manual actions.
+ - Undo/Redo Time Machine: Features a robust state snapshot system, grouped smartly by typing bursts and manual actions.
 
  - Text Selection & Clipboard: Hold Shift with arrow keys or click-and-drag the mouse to highlight text. Includes full Cut, Copy, Paste, and Delete mechanics via an internal memory clipboard.
 
@@ -39,9 +39,9 @@ Advanced Editing Capabilities:
 
 Modern UI/UX in Text Mode:
 
- - Interactive File Browser: A completely custom open/save dialog that reads native DOS directories (<dir.h>). Includes live search filtering, file size formatting, and address path history (Back/Forward).
+ - Interactive File Browser: A completely custom open/save dialog that reads DOS directories. Includes live search filtering, file size formatting, and address path history (Back/Forward).
 
- - 100% Keyboard Navigable: True to classic DOS software, the entire GUI can be used without a mouse. Press Alt to drop down menus, use Arrow Keys to navigate, and use Tab to cycle focus through dialog boxes.
+ - Keyboard Navigable: True to classic DOS software, the entire GUI can be used without a mouse (Except settings page). Press Alt to drop down menus, use Arrow Keys to navigate, and use Tab to cycle focus through dialog boxes.
 
  - Context Menus: Right-click anywhere on the text canvas to open a modern context menu at the cursor's location.
 
