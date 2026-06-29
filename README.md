@@ -67,14 +67,29 @@ Other settings
 
 ![Settings](Screenshots/Screenshot2026-06-29-145803.png) ![Settings](Screenshots/Screenshot2026-06-29-145822.png)
 
-# Requirements
-A DOS computer and an 80x25 text mode compatible video card.
+## Recommended System Requirements
+
+ - OS: MS-DOS 6.22+, FreeDOS, or modern emulators (DOSBox, DOSBox-X, PCem)
+
+ - CPU: Intel 386
+
+ - RAM: 8 MB
+
+ - Video: VGA Compatible Graphics Card
+
+ - Input: Microsoft Compatible Mouse (Serial or PS/2) and Standard Keyboard
+
+## Absolute Minimum System Requirements
+
+ - OS: MS-DOS 5.0+
+
+ - CPU: Intel 8086
+   
+ - RAM: 1 MB
+
+ - Video: VGA or MDA (Monochrome Display Adapter)
+   
+ - Input: Standard Keyboard [Mouse is required for changing settings, otherwise, use config.txt to edit settings]
 
 # Tested on
-DOS version 7.10 on DOSBox-X, 16 MB ram
-
-Windows 7 x86 on Real Hardware - Core 2 Quad, 4 GB ram
-
-Windows 98 SE x86 on Real Hardware - Pentium 3, 256 MB ram
-
-DOS 7.10 on Real Hardware - Pentium 3, 256 MB ram
+DOS version 7.10 on DOSBox-X, from 1 MB to 16 MB RAM
