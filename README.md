@@ -51,7 +51,7 @@ Modern UI/UX in Text Mode:
 
 # Settings page
 
-Display settings will be available in the later versions
+Display information
 
 ![Settings](Screenshots/Screenshot2026-03-04115825.png)
 
@@ -59,7 +59,7 @@ Graphics settings with theme settings
 
 ![Settings](Screenshots/Screenshot2026-03-04115831.png)
 
-Other settings will be available in the later versions
+Other settings
 
 ![Settings](Screenshots/Screenshot2026-03-04115835.png)
 
